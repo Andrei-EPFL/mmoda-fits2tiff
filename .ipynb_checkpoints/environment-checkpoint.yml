@@ -12,6 +12,5 @@ channels:
 dependencies:
   - astropy<7.0.0
   - tifffile
-  - oda-api>=1.2.33
 
 prefix: "/opt/conda"
